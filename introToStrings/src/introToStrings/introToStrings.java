@@ -35,7 +35,7 @@ public class introToStrings
 						{		
 							System.out.println(text.substring (i,i+1));
 						}
-					//hello
+		
 					
 				}
 
